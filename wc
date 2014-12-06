@@ -1,0 +1,2 @@
+The wc utility will display the number of lines, words and bytes count in each input file to the standard output.
+Or displays the number of lines, words and bytes count from a standard input, if no file was specified, to the standard output.
